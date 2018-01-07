@@ -1,0 +1,165 @@
+body {
+    text-align: center;
+    color: #f2f2f2;
+    font-family: "Exo", sans-serif;
+}
+
+h3 {
+    margin: 0;
+}
+
+a.navbar-brand {
+    color: #f2f2f2 !important;
+  font-size: 1.7em;
+}
+
+header.container-fluid {
+    height: 700px;
+    color: #f2f2f2;
+    margin-top: -40px;
+    padding-top: 10%;
+    background-image: url("https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=1050&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header div.page-header {
+    padding-top: 50px;
+    background-color: black;
+    opacity: .7;
+    margin-left: 30%;
+    margin-right: 30%;:
+}
+
+header div.page-header h1{
+  font-size: 4.0em;
+}
+
+header div.page-header p{
+  font-size: 1.5em;
+}
+header div.social {
+    padding-bottom: 5%;
+}
+
+div.social-link {
+    display: inline-block;
+    height: 50px;
+    line-height: 50px;
+    width: 50px;
+    margin: 5px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    background-color: #f2f2f2;
+}
+
+div#about header {
+    margin-left: -15px;
+    margin-right: -15px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: #7F7E7E;
+}
+
+div#about div.row {
+    height: 700px;
+    background-image: url("https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=1050&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+div#about p {
+    margin-top: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 1.7em;
+    text-align: left;
+    border: 1px solid #fff;
+    background-color: black;
+    opacity: .7;
+}
+
+img.img-circle {
+    margin: 10% 30%;
+    height: 200px;
+    width: auto;
+}
+
+div#portfolio header {
+    margin-left: -15px;
+    margin-right: -15px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: #7F7E7E;
+}
+
+div#portfolio div.works {
+    height: auto; 
+    background-image: url("https://static.tumblr.com/a1b126fedc6b2638034b2c5072f82a44/rm5ltzc/1IBn9e642/tumblr_static_f4qzqvsrdkgs84kkg044oswkc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 2em;
+}
+
+div.frame {
+    border: 1px solid #fff;
+    margin-top: 1em;
+}
+
+div.caption {
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 15px;
+}
+
+.screenshot {
+    margin-top: 1em;
+}
+
+.screenshot a img {
+    margin: 10px auto;
+}
+
+div#contact header {
+    margin-left: -15px;
+    margin-right: -15px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: #7F7E7E;
+}
+
+div#contact div.info {
+    height: 700px;
+    background-image: url("http://www.hdwallpapers.in/walls/os_x_lynx-wide.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 10%;
+}
+
+div.info div {
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 15px;
+    margin: 1em 2em;
+    padding: 1em;
+}
+
+.info a {
+    text-decoration: none;
+}
+
+footer {
+    background-color: #000;
+    padding: 5%;
+}
+
+div.navBottom a {
+    text-decoration: none;
+    color: #fff;
+}
+
+div.copyright {
+    margin: 3%;
+}
